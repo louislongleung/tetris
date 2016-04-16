@@ -24,6 +24,8 @@ on it.
 import os
 import random
 
+""" testing
+"""
 
 class Tetris(object):
     _shape = ('straight', 'square', 'n-shape',  'L-shape',  '7-shape')
